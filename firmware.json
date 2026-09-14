@@ -1,0 +1,9 @@
+{
+  "firmwares": [
+    {
+      "version": "1.0",
+      "name": "Stable",
+      "url": "https://raw.githubusercontent.com/Ibnuazuka/PSC.v.3.1OTAupdate/main/firmware_1.0.bin"
+    }
+  ]
+}
