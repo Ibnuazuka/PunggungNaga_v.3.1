@@ -14,6 +14,25 @@
       "version": "3.1.2",
       "name": "fuji",
       "url": "https://raw.githubusercontent.com/Ibnuazuka/PunggungNaga_v.3.1/main/firmware_3.1.2fuji.bin"
-    }
+    },
+    {
+      "version": "3.1.2",
+      "name": "jono",
+      "url": "https://raw.githubusercontent.com/Ibnuazuka/PunggungNaga_v.3.1/main/firmware_3.1.2jono.bin"
+    },
+    {
+      "version": "3.1.2",
+      "name": "ucok",
+      "url": "https://raw.githubusercontent.com/Ibnuazuka/PunggungNaga_v.3.1/main/firmware_3.1.2ucok.bin"
+    },{
+      "version": "3.1.2",
+      "name": "saban",
+      "url": "https://raw.githubusercontent.com/Ibnuazuka/PunggungNaga_v.3.1/main/firmware_3.1.2saban.bin"
+    },
+    {
+      "version": "3.1.2",
+      "name": "hari",
+      "url": "https://raw.githubusercontent.com/Ibnuazuka/PunggungNaga_v.3.1/main/firmware_3.1.2hari.bin"
+    },
   ]
 }
