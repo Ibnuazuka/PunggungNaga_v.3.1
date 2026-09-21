@@ -7,31 +7,31 @@
     }, 
     {
       "version": "3.1.2",
-      "name": "custom DWLT",
+      "name": "cstm DWLT",
       "url": "https://raw.githubusercontent.com/Ibnuazuka/PunggungNaga_v.3.1/main/firmware_3.1.2DWLT.bin"
     },
     {
       "version": "3.1.2",
-      "name": "custom OCTA",
+      "name": "cstm OCTA",
       "url": "https://raw.githubusercontent.com/Ibnuazuka/PunggungNaga_v.3.1/main/firmware_3.1.2octa.bin"
     },
     {
       "version": "3.1.2",
-      "name": "custom DORAEMON",
+      "name": "cstm DORAEMON",
       "url": "https://raw.githubusercontent.com/Ibnuazuka/PunggungNaga_v.3.1/main/firmware_3.1.2doraemon.bin"
     },
     {
       "version": "3.1.2",
-      "name": "custom LUCAS",
+      "name": "cstm LUCAS",
       "url": "https://raw.githubusercontent.com/Ibnuazuka/PunggungNaga_v.3.1/main/firmware_3.1.2lucas.bin"
     },{
       "version": "3.1.2",
-      "name": "custom JT",
+      "name": "cstm JT",
       "url": "https://raw.githubusercontent.com/Ibnuazuka/PunggungNaga_v.3.1/main/firmware_3.1.2jt.bin"
     },
     {
       "version": "3.1.2",
-      "name": "custom STEVEN",
+      "name": "cstm STEVEN",
       "url": "https://raw.githubusercontent.com/Ibnuazuka/PunggungNaga_v.3.1/main/firmware_3.1.2steven.bin"
     }
   ]
