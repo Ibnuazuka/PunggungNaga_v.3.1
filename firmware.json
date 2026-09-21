@@ -7,32 +7,32 @@
     }, 
     {
       "version": "3.1.2",
-      "name": "ibnu",
-      "url": "https://raw.githubusercontent.com/Ibnuazuka/PunggungNaga_v.3.1/main/firmware_3.1.2ibnu.bin"
+      "name": "custom DWLT",
+      "url": "https://raw.githubusercontent.com/Ibnuazuka/PunggungNaga_v.3.1/main/firmware_3.1.2DWLT.bin"
     },
     {
       "version": "3.1.2",
-      "name": "fuji",
-      "url": "https://raw.githubusercontent.com/Ibnuazuka/PunggungNaga_v.3.1/main/firmware_3.1.2fuji.bin"
+      "name": "custom OCTA",
+      "url": "https://raw.githubusercontent.com/Ibnuazuka/PunggungNaga_v.3.1/main/firmware_3.1.2octa.bin"
     },
     {
       "version": "3.1.2",
-      "name": "jono",
-      "url": "https://raw.githubusercontent.com/Ibnuazuka/PunggungNaga_v.3.1/main/firmware_3.1.2jono.bin"
+      "name": "custom DORAEMON",
+      "url": "https://raw.githubusercontent.com/Ibnuazuka/PunggungNaga_v.3.1/main/firmware_3.1.2doraemon.bin"
     },
     {
       "version": "3.1.2",
-      "name": "ucok",
-      "url": "https://raw.githubusercontent.com/Ibnuazuka/PunggungNaga_v.3.1/main/firmware_3.1.2ucok.bin"
+      "name": "custom LUCAS",
+      "url": "https://raw.githubusercontent.com/Ibnuazuka/PunggungNaga_v.3.1/main/firmware_3.1.2lucas.bin"
     },{
       "version": "3.1.2",
-      "name": "saban",
-      "url": "https://raw.githubusercontent.com/Ibnuazuka/PunggungNaga_v.3.1/main/firmware_3.1.2saban.bin"
+      "name": "custom JT",
+      "url": "https://raw.githubusercontent.com/Ibnuazuka/PunggungNaga_v.3.1/main/firmware_3.1.2jt.bin"
     },
     {
       "version": "3.1.2",
-      "name": "hari",
-      "url": "https://raw.githubusercontent.com/Ibnuazuka/PunggungNaga_v.3.1/main/firmware_3.1.2hari.bin"
+      "name": "custom STEVEN",
+      "url": "https://raw.githubusercontent.com/Ibnuazuka/PunggungNaga_v.3.1/main/firmware_3.1.2steven.bin"
     }
   ]
 }
