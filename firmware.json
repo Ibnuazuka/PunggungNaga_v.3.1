@@ -12,26 +12,26 @@
     },
     {
       "version": "3.1.3",
-      "name": "AGHOST",
-      "url": "https://raw.githubusercontent.com/Ibnuazuka/PunggungNaga_v.3.1/main/firmware_3.1.2AGHOST.bin"
+      "name": "NEO DAZH",
+      "url": "https://raw.githubusercontent.com/Ibnuazuka/PunggungNaga_v.3.1/main/firmware_3.1.3NEO.bin"
     },
     {
-      "version": "3.1.2",
-      "name": "NEO",
-      "url": "https://raw.githubusercontent.com/Ibnuazuka/PunggungNaga_v.3.1/main/firmware_3.1.2NEO.bin"
+      "version": "3.1.3",
+      "name": "SONY",
+      "url": "https://raw.githubusercontent.com/Ibnuazuka/PunggungNaga_v.3.1/main/firmware_3.1.3SONY.bin"
     },
     {
-      "version": "3.1.2",
-      "name": "cstm LIM",
+      "version": "3.1.3",
+      "name": "empty",
       "url": "https://raw.githubusercontent.com/Ibnuazuka/PunggungNaga_v.3.1/main/firmware_3.1.2lim.bin"
     },{
-      "version": "3.1.2",
-      "name": "cstm JT",
+      "version": "3.1.3",
+      "name": "empty",
       "url": "https://raw.githubusercontent.com/Ibnuazuka/PunggungNaga_v.3.1/main/firmware_3.1.2jt.bin"
     },
     {
-      "version": "3.1.2",
-      "name": "cstm STEVEN",
+      "version": "3.1.3",
+      "name": "empty",
       "url": "https://raw.githubusercontent.com/Ibnuazuka/PunggungNaga_v.3.1/main/firmware_3.1.2steven.bin"
     }
   ]
