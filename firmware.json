@@ -1,38 +1,38 @@
 {
   "firmwares": [
     {
-      "version": "3.1.2",
-      "name": "DEFAULT",
-      "url": "https://raw.githubusercontent.com/Ibnuazuka/PunggungNaga_v.3.1/main/firmware_3.1.2default.bin"
-    }, 
-    {
       "version": "3.1.3",
       "name": "DEFAULT",
       "url": "https://raw.githubusercontent.com/Ibnuazuka/PunggungNaga_v.3.1/main/firmware_3.1.3default.bin"
-    },
+    }, 
     {
       "version": "3.1.3",
-      "name": "NEO DAZH",
-      "url": "https://raw.githubusercontent.com/Ibnuazuka/PunggungNaga_v.3.1/main/firmware_3.1.3NEO.bin"
+      "name": "ghola",
+      "url": "https://raw.githubusercontent.com/Ibnuazuka/PunggungNaga_v.3.1/main/firmware_3.1.3ghola.bin"
     },
     {
-      "version": "3.1.3",
-      "name": "D",
-      "url": "https://raw.githubusercontent.com/Ibnuazuka/PunggungNaga_v.3.1/main/firmware_3.1.3D.bin"
-    },
-    {
-      "version": "3.1.3",
-      "name": "joe3",
-      "url": "https://raw.githubusercontent.com/Ibnuazuka/PunggungNaga_v.3.1/main/firmware_3.1.2joe.bin"
-    },{
       "version": "3.1.3",
       "name": "ichaibra",
-      "url": "https://raw.githubusercontent.com/Ibnuazuka/PunggungNaga_v.3.1/main/firmware_3.1.2icha.bin"
+      "url": "https://raw.githubusercontent.com/Ibnuazuka/PunggungNaga_v.3.1/main/firmware_3.1.3ichaibra.bin"
     },
     {
       "version": "3.1.3",
       "name": "empty",
-      "url": "https://raw.githubusercontent.com/Ibnuazuka/PunggungNaga_v.3.1/main/firmware_3.1.2steven.bin"
+      "url": "https://raw.githubusercontent.com/Ibnuazuka/PunggungNaga_v.3.1/main/firmware_3.1.3empty.bin"
+    },
+    {
+      "version": "3.1.3",
+      "name": "empty",
+      "url": "https://raw.githubusercontent.com/Ibnuazuka/PunggungNaga_v.3.1/main/firmware_3.1.3empty.bin"
+    },{
+      "version": "3.1.3",
+      "name": "empty",
+      "url": "https://raw.githubusercontent.com/Ibnuazuka/PunggungNaga_v.3.1/main/firmware_3.1.3empty.bin"
+    },
+    {
+      "version": "3.1.3",
+      "name": "empty",
+      "url": "https://raw.githubusercontent.com/Ibnuazuka/PunggungNaga_v.3.1/main/firmware_3.1.3empty.bin"
     }
   ]
 }
